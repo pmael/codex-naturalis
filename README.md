@@ -24,4 +24,4 @@ The goal is to start a game from a simple website, with nothing to install:
 
 @pmael
 
-Codex Naturalis is a game by Thomas Dupont, illustrated by Maxime Morin. All rights to the original game belong to its authors and publisher.
+Codex Naturalis is a game by Thomas Dupont, illustrated by Maxime Morin. All rights to the original game belong to its authors and publisher. 
